@@ -1,4 +1,4 @@
-package aplicattion;
+package application;
 
 import entities.Comment;
 import entities.Post;
